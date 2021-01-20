@@ -1,0 +1,65 @@
+
+H2{
+    text-align: center;
+    font-family: 'Nerko One', cursive;
+
+}
+
+nav{
+
+    margin-left:15%;
+    margin-right: 10%;
+    background-color: #518310;
+    border-radius: 15px;
+    text-align: center;
+
+}
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li a {
+    color: #f4f4f2;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+/* INICIO DE LA PRACTICA EN CLASE */
+.alert-warning{
+
+    background-color: rgba(238, 50, 87, 0.856);
+    color: rgb(96, 247, 96);
+
+}
+
+.btn-dark{
+
+    background-color: rgb(30, 156, 30);
+
+}
+
+.botonDiana{
+  
+    background-color: indigo;
+    color: khaki;
+
+}
+/*CARRUSEL*/
+h5{
+    color: #F0A500;
+    font-family: 'Nerko One', cursive;
+}
+
+p{
+  color:#CF7500;
+  font-family: 'Nerko One', cursive;
+}
+
+
+.btn-primary{
+
+ 
+
+}
